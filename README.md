@@ -16,3 +16,8 @@ Este é um site de portfólio pessoal desenvolvido com HTML, CSS e JavaScript.
 Código validado com [W3C Markup Validation Service](https://validator.w3.org/).
 
 ## Atualizações
+Initial commit
+Adicionando commits no README.md
+Adicionando tema escuro/claro ao projetos.html
+Adicionando tema escuro/claro ao style.css
+Adicionando informações ao index.html
